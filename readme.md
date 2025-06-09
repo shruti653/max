@@ -1,1 +1,1 @@
-"my practice project2"
+"this is my first practical"

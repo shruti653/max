@@ -1,2 +1,1 @@
-"this is my first practical"
-"I am shruti Dhumal"
+"Awesome git practice project"
